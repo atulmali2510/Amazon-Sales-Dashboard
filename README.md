@@ -16,3 +16,5 @@ It helps in visualizing key metrics and understanding sales trends.
 
 ## Tools Used
 - Microsoft Excel (PivotTables, Charts, Slicers)
+
+![Dashboard Screenshot](dashboards.png)
